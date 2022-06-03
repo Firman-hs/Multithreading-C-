@@ -1,4 +1,4 @@
-# Firman
+# MultiThreading C#
 # kode untuk mencoba thread
 
     using System;
