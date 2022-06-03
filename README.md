@@ -1,4 +1,5 @@
 # Firman
+# kode untuk mencoba thread
 
 using System;
 using System.Collections.Generic;
